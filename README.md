@@ -1,9 +1,10 @@
-# Nome da disciplina
-> xª disciplina do curso **nome do curso**
+# Projeto de Sistemas de Software
+> 2ª disciplina do curso **Programador de Sistemas da Informação**
 
 ## Materiais
-Links para materiais utilizados ao longo das aulas.
+O principal material de referência da disciplina é o livro-resumo elaborado pelo Prof. Jânio: [📕 **Projeto de Sistemas de Software**](). 
 
+<!--
 ## Aulas
 
 | Aula | Conteúdo |  
@@ -20,3 +21,4 @@ Links para materiais utilizados ao longo das aulas.
 | 10 |  |  
 | 11 | |  
 | 12 | | 
+-->
