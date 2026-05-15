@@ -2,7 +2,7 @@
 > 2ª disciplina do curso **Programador de Sistemas da Informação**
 
 ## Materiais
-O principal material de referência da disciplina é o livro-resumo elaborado pelo Prof. Jânio: [📕 **Projeto de Sistemas de Software**](). 
+O principal material de referência da disciplina é o livro-resumo elaborado pelo Prof. Jânio: 📕 [**Projeto de Sistemas de Software**](https://github.com/mais-ti/projeto-sistemas-software/blob/main/Projeto%20de%20Sistemas%20de%20Software%20-%20Jânio%20Canuto.pdf). 
 
 <!--
 ## Aulas
