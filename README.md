@@ -4,13 +4,13 @@
 ## Materiais
 O principal material de referência da disciplina é o livro-resumo elaborado pelo Prof. Jânio: 📕 [**Projeto de Sistemas de Software**](https://github.com/mais-ti/projeto-sistemas-software/blob/main/Projeto%20de%20Sistemas%20de%20Software%20-%20Jânio%20Canuto.pdf). 
 
-<!--
+
 ## Aulas
 
 | Aula | Conteúdo |  
 |:---:|:---|  
-| 1 |  |  
-| 2 |  |  
+| 1 | Introdução à Engenharia de Software + Exercício 1 |  
+| 2 | Processo de Software + Exercício 2 |  
 | 3 | |  
 | 4 | |  
 | 5 |  |  
@@ -21,4 +21,4 @@ O principal material de referência da disciplina é o livro-resumo elaborado pe
 | 10 |  |  
 | 11 | |  
 | 12 | | 
--->
+
