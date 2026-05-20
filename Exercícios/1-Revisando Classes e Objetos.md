@@ -8,7 +8,7 @@ Além desses atributos, a classe precisa ter dois métodos:
 ## Estrutura do código
 A estrutura do código serve como base para a resolução do exercício. Você pode ficar a vontade para copiar essa estrutura ou fazer o seu código totalmente do zero.
 
-⚠️ **Atenção:** O uso da estrutura é opcional porém os casos de teste (no final da estrutura) devem funcionar corretamente! Desse modo, o nome da classe e os nomes dos métodos devem ser os mesmos.
+⚠️ **Atenção:** O uso da estrutura é opcional, porém, os casos de teste (no final da estrutura) devem funcionar corretamente! Desse modo, o nome da classe e os nomes dos métodos devem ser os mesmos.
 
 ```javascript
 class Aluno{
