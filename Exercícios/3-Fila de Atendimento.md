@@ -13,7 +13,7 @@ Partindo do cenário, o seu código precisa:
 * Remover o paciente chamado da fila.
 
 Esse exercício deve ser resolvido de **duas** formas:
-* Usando um código imperativo: vocês podem usar funções, loops, condicionais, mas **não podem** usar classes e objetos;
+* Usando um código imperativo: vocês podem usar funções, loops, condicionais, mas **não podem** usar classes;
 * Usando um código orientado a objetos: vocês **devem** usar classes e objetos.
 
 **Obs.:** Neste exercício, todos os pacientes têm a mesma prioridade na fila. Ou seja, não implementaremos as preferências legais.
