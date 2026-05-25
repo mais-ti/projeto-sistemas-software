@@ -11,8 +11,8 @@ O principal material de referência da disciplina é o livro-resumo elaborado pe
 |:---:|:---|  
 | 1 | Introdução à Engenharia de Software + Exercício 1 |  
 | 2 | Processo de Software + Exercício 2 |  
-| 3 | |  
-| 4 | |  
+| 3 | Exercício 3 |  
+| 4 | Engenharia de Requisitos + Tutorial de GitHub |  
 | 5 |  |  
 | 6 | |  
 | 7 | |  
