@@ -48,37 +48,36 @@ class Sistema {
 
     // COMPANHIAS
     cadastrarCompanhia(nome){
-
+        //complete o código aqui
     }
     listarCompanhias(){
-
+        //complete o código aqui
     }
     editarCompanhia(id, novoNome){
-
+        //complete o código aqui
     }
     excluirCompanhia(id){
-        
+        //complete o código aqui
     }
 
     // TRECHOS
     cadastrarTrecho(idCompanhia, origem, destino, valor){
-
+        //complete o código aqui
     }
     listarTrechos(){
-
+        //complete o código aqui
     }
     listarTrechosPorCompanhia(){ 
-
+        //complete o código aqui
     }
     editarTrecho(id, origem, destino, valor){
-
+        //complete o código aqui
     }
     excluirTrecho(id) { 
-
+        //complete o código aqui
     }
 }
 
-// -------------------------------------------
 
 const sistema = new Sistema();
 let opcao = -1;
