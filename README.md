@@ -15,9 +15,9 @@ O principal material de referência da disciplina é o livro-resumo elaborado pe
 | 4 | Exercício 3 |  
 | 5 | Engenharia de Requisitos + Tutorial de GitHub |  
 | 6 | Caso de Uso e Modelagem de Software + Modelagem de ideias dos alunos |  
-| 7 | |  
-| 8 |  |   
-| 9 | |  
+| 7 | Exercício 4 |  
+| 8 | Uso de arquivos para salvar dados + Exercício 5 |   
+| 9 | Persistência de Dados e SQL + Exercício 6 |  
 | 10 |  |  
 | 11 | |  
 | 12 | | 
