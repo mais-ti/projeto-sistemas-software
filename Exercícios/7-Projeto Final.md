@@ -1,10 +1,9 @@
-# Projeto Final — Sistema de Passagens Aéreas
+# Projeto Final: Sistema de Passagens Aéreas
 
 Ao longo das últimas aulas, construímos juntos um sistema de passagens aéreas que evoluiu bastante: começou com objetos simples, passou a usar classes e ganhou persistência com arquivos JSON. Agora, vamos dar o passo final.
 
 O projeto que vamos desenvolver é uma versão completa do sistema, dividida em dois módulos independentes que compartilham o mesmo banco de dados SQLite. Ou seja, o que a companhia cadastrar fica disponível imediatamente para o cliente.
 
----
 
 ## Estrutura do projeto
 
@@ -19,8 +18,6 @@ Em seguida, abram o terminal e instalem as dependências:
 ```
 npm install better-sqlite3 prompt-sync
 ```
-
----
 
 ## O banco de dados
 
@@ -56,7 +53,6 @@ As tabelas são:
 
 Ao final do `database.js`, exportem a conexão com `module.exports = db` para que os outros módulos possam usá-la.
 
----
 
 ## Modulo companhia.js
 
@@ -232,7 +228,6 @@ while (opcao !== 0) {
 }
 ```
 
----
 
 ## Modulo cliente.js
 
@@ -394,7 +389,6 @@ while (opcao !== 0) {
 }
 ```
 
----
 
 ## Dicas
 
@@ -404,13 +398,11 @@ while (opcao !== 0) {
 - O carrinho do cliente é apenas um array em memória; ele não precisa ir para o banco;
 - Testem o `companhia.js` primeiro, cadastrando algumas companhias, trechos e cupons, antes de abrir o `cliente.js`.
 
----
 
 ## Desafio
 
 Se quiser ir além, implemente uma tabela de **Venda** no banco de dados para registrar cada compra realizada. Ela deve guardar a data e hora da compra, o valor total pago e os trechos adquiridos. Isso não é obrigatório, mas é um ótimo exercício para consolidar tudo que aprendemos.
 
----
 
 ## Guardando o projeto no GitHub
 
