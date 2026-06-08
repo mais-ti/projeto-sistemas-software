@@ -53,6 +53,20 @@ As tabelas são:
 
 Ao final do `database.js`, exportem a conexão com `module.exports = db` para que os outros módulos possam usá-la.
 
+### Estrutura do código
+
+```javascript
+const Database = require('better-sqlite3');
+
+const db = new Database('sistema_passagens.db');
+
+db.exec(`
+//SQL para criar as tabelas    
+`);
+
+module.exports = db;
+```
+
 
 ## Modulo companhia.js
 
