@@ -18,6 +18,10 @@ Em seguida, abram o terminal e instalem as dependências:
 ```
 npm install better-sqlite3 prompt-sync
 ```
+> ⚠️ Caso algum erro apareça no terminal durante a instalação, use o comando abaixo:
+> ```
+> npm install better-sqlite3@9.6.0 prompt-sync
+> ```
 
 ## O banco de dados
 
