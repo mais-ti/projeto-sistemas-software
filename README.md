@@ -18,7 +18,7 @@ O principal material de referência da disciplina é o livro-resumo elaborado pe
 | 7 | Exercício 4 |  
 | 8 | Uso de arquivos para salvar dados + Exercício 5 |   
 | 9 | Persistência de Dados e SQL + Exercício 6 |  
-| 10 |  |  
+| 10 | Projeto final - Parte 1 |  
 | 11 | |  
 | 12 | | 
 
