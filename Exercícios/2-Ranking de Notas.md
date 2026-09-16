@@ -1,6 +1,6 @@
 # Exercício
 
-Agora vamos expandir o sistema anterior. Além de armazenar alunos e calcular médias por disciplina, queremos criar uma classe chamada `Turma`, responsável por reunir vários alunos e gerar uma lista com o desempenho deles em uma determinada disciplina.
+Vamos melhorar o sistema de notas que vimos anteriormente. Além de armazenar alunos e calcular médias por disciplina, queremos criar uma classe chamada `Turma`, responsável por reunir vários alunos e gerar uma lista com o desempenho deles em uma determinada disciplina.
 
 A classe `Turma` deve possuir:
 
